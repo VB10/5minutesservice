@@ -1,0 +1,1 @@
+curl https://testfire-93a3f.firebaseio.com/user/-MAv1Esl5l83zyQIQuNp.json
